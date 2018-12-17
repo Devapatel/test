@@ -4,6 +4,7 @@
 void main()
 {
 	
-	cout<<"helo genius";
+	cout<<"helo genius"<<endl;
+	cout<<"it is my first git program";
 	
 }
